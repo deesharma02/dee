@@ -1,0 +1,64 @@
+<style>
+*{
+    box-sizing: border-box;
+} 
+
+      /* body{
+        background-color:gray;
+        background-image: url(study.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+         } */
+       #heading{
+           font-size: 100px;
+           font-family:'Times New Roman', Times, serif;
+           color: green;
+          text-align: center;
+       }
+       #apj{
+           font-size: x-large;
+           font-family: cursive;
+           color:rgb(97, 11, 8);
+           margin-left: 4px;
+
+       }
+       img
+{
+	position:absolute;
+	left:50px;
+	width:300px;
+	height:400px;
+	vertical-align:top;
+	align:left;
+}
+       #description1{
+           font-family:cursive; 
+            font-size: large; 
+            color:black; 
+           /* text-align: right;  */
+           height:400px;
+	width:67%;
+	position:relative;
+	left:400px;
+        }
+       #link1{
+           color:maroon;
+           font-size: large;
+           text-decoration: none;
+       }
+       img:hover{
+        height: 450px;
+        width:310px;
+       }
+       a
+{
+	
+	font-size:18px;
+	font-family:cursive;
+    font-size: medium;
+}
+a:hover{
+    background-color:rgb(159, 240, 240)
+}
+       
+</style>
